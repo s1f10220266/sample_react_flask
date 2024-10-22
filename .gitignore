@@ -1,0 +1,27 @@
+# my_frontend
+
+# dependencies
+my_frontend/node_modules
+my_frontend/.pnp
+my_frontend/.pnp.js
+
+# testing
+my_frontend/coverage
+
+# production
+my_frontend/build
+
+# misc
+my_frontend/.DS_Store
+my_frontend/.env.local
+my_frontend/.env.development.local
+my_frontend/.env.test.local
+my_frontend/.env.production.local
+
+my_frontend/npm-debug.log*
+my_frontend/yarn-debug.log*
+my_frontend/yarn-error.log*
+
+# my_backend
+my_backend/flaskenv
+
